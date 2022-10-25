@@ -1,4 +1,4 @@
-# Grasberg-Coffee-Front-End
+## Grasberg-Coffee-Front-End
 
 <h1 align="center">Grasberg Coffee</h1>
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-- [Grasberg-Coffee-Front-End](#grasberg-coffee-front-end)
+  - [Grasberg-Coffee-Front-End](#grasberg-coffee-front-end)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Features](#features)
