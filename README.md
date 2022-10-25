@@ -17,9 +17,6 @@
   - [Features](#features)
   - [Requirements](#requirements)
   - [Usage for development](#usage-for-development)
-  - [Screenshots](#screenshots)
-  - [Previous Project](#previous-project)
-  - [Contributors](#contributors)
 
 ## Introduction
 
@@ -40,28 +37,13 @@ the available promos that can make your order much cheaper.
 ## Usage for development
 
 1. Clone this Repository
-   $ git clone https://github.com/Rama-z/Grasberg-Coffee-Project-V1/
-2. Open in website https://grasberg-coffee.netlify.app/index.html
-3. Enjoy!
+$ git clone https://github.com/Rama-z/Grasberg-Coffee-Project-V1/
+2. Open VS Code
+3. Open Menu **Terminal** > **New Terminal** or press ctrl+shift+`
+4. On terminal, change directory to Grasberg-Coffee-Project-V1 then run
+npm start
+5. Enjoy!
 
-## Screenshots
 
-<div align="center">
-</div>
-
-## Previous Project
-
-## Contributors
-
-<center>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Rama-z">
-          <img width="100" style="border-radius:50%;"; alt=""><br/>
-          <sub><b>Zanuar Bagus Ramadhan</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</center>
+Netlify DOCUMENTATION\
+https://documenter.getpostman.com/view/23707258/2s83zjqMtR
