@@ -265,7 +265,9 @@ main {
   color: #0b132a;
 }
 
-.border-e {
+.border-e,
+.border-f,
+.border-g {
   background: #ffffff;
   border: 2px solid #6a4029;
   border-radius: 10px;
@@ -404,10 +406,10 @@ main {
     font-weight: 500;
     color: #0b132a;
   }
-  
+
   .position-p {
     position: relative;
-    top: 0.1em
+    top: 0.1em;
   }
 
   .arrow1 {
@@ -439,15 +441,22 @@ main {
     border-radius: 10px;
     margin: 1em 0em;
   }
+  .border-f {
+    display: none;
+  }
+
+  .border-g {
+    display: none;
+  }
 
   .staff-margin1 {
     margin-left: -3em;
   }
-  
+
   .staff-margin2 {
     margin-left: 1em;
   }
-  
+
   .staff-margin3 {
     margin-left: 1em;
   }
