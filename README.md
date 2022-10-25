@@ -1,9 +1,6 @@
 ## Grasberg-Coffee-Front-End
 
 <h1 align="center">Grasberg Coffee</h1>
-<p align="center">
-  Built with Bootstrap.
-</p>
 
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
