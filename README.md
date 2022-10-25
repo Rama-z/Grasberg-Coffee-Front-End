@@ -38,11 +38,8 @@ the available promos that can make your order much cheaper.
 
 1. Clone this Repository
    $ git clone https://github.com/Rama-z/Grasberg-Coffee-Project-V1/
-2. Open VS Code
-3. Open Menu **Terminal** > **New Terminal** or press ctrl+shift+`
-4. On terminal, change directory to Grasberg-Coffee-Project-V1 then run
-   npm start
-5. Enjoy!
+2. Open in website with Open Live Server or alt + L + O
+3. Enjoy!
 
 Netlify DOCUMENTATION\
 https://grasberg-coffee.netlify.app/index.html
